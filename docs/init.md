@@ -24,6 +24,9 @@
 ```
     mkdir -p /opt/kubernetes/{cfg,bin,ssl,log}
 ```
+    修改环境变量：
+    vim /etc/profile.d/kubernetes.sh
+    .  /etc/profile.d/kubernetes.sh
 
 ## 3.准备软件包
 ```
